@@ -1,0 +1,6 @@
+
+<svg width="80" height="80" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+<polygon points="40,5 47,25 67,33 47,41 40,61 33,41 13,33 33,25" fill="#f7c948">
+ <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="1"/>
+</polygon>
+</svg>

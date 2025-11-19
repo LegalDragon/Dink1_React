@@ -1,0 +1,7 @@
+<svg width="64" height="64" viewBox="0 0 64 64"
+ xmlns="http://www.w3.org/2000/svg">
+<polygon points="32,8 40,24 24,32 40,40 32,56" fill="#2994FF"/>
+<circle cx="32" cy="32" r="28" stroke="#2994FF" stroke-width="3" fill="none">
+ <animate attributeName="stroke-width" values="3;6;3" dur="1.5s" repeatCount="indefinite"/>
+</circle>
+</svg>
