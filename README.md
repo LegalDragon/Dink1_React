@@ -1,6 +1,6 @@
-# CASEC - Chinese American Social and Cultural Exchange
+# DINK1
 
-Full-stack membership management system for community organizations.
+Full-stack pickleball player membership management system for community.
 
 ## 🏗️ Project Structure
 
